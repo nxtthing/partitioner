@@ -1,4 +1,4 @@
-require "pg_party"
+require "initializers/pg_party"
 require "partitioner/manager"
 require "partitioner/model"
 
